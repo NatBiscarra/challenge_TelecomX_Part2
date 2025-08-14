@@ -62,4 +62,5 @@ A análise dos coeficientes da Regressão Logística e da importância das vari�
 
 ---
 ## Agradecimentos 
-À Alura Latam e à Oracle pelo conhecimento compartilhado através do programa ONE - Oracle Next Education.
+À Alura Latam e à Oracle pelo conhecimento compartilhado através do programa ONE - Oracle Next Education.<img width="500" height="500" alt="imagem da badge" src="https://github.com/user-attachments/assets/aeabbf78-41ba-4561-bb4a-cded41a31ca5" />
+
